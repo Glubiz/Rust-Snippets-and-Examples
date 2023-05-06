@@ -1,8 +1,8 @@
-# Rust Snippets
+# Rust Snippets and Examples
 
-Welcome to the Rust Snippets repository! This repository aims to help newcomers learn Rust and provide inspiration for experienced Rust programmers. The examples cover a variety of topics, from basic concepts to advanced programming techniques.
+Welcome to the Rust Snippets and Examples repository! This repository aims to help newcomers learn Rust and provide inspiration for experienced Rust programmers. The examples cover a variety of topics, from basic concepts to advanced programming techniques.
 
-## Topics
+## Snippet Categories 
 
 The following topics are covered in this repository:
 
@@ -20,7 +20,13 @@ The following topics are covered in this repository:
 - Parsing and Serialization
 - Systems Programming
 
-Each topic has its own folder containing code examples and explanations. These examples are designed to help you learn Rust and provide inspiration for your projects.
+## Example Categories 
+
+The following topics are covered in this repository:
+
+- Todo
+
+Each category has its own folder containing code examples and explanations. These examples are designed to help you learn Rust and provide inspiration for your projects.
 
 ## How to Use
 
